@@ -1,0 +1,14 @@
+body {
+    border: 0px;
+    padding: 0px;
+    margin: 0px;
+    font-family: 'Share Tech Mono', monospace;
+    color: white;
+    background-image: url(/anfitriao.jpg);
+}
+#genesis {
+    margin-top: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
